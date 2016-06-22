@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{6A15692C-4493-4709-6A4F-5FB1046F3878}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "GearVR_QS",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}

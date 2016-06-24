@@ -1,9 +1,9 @@
-°£´ÜÇÑ 1ÀÎÃþ ºí·° ±ú±â °ÔÀÓ ÀÔ´Ï´Ù.
+ê°„ë‹¨í•œ 1ì¸ì¸µ ë¸”ëŸ­ ê¹¨ê¸° ê²Œìž„ ìž…ë‹ˆë‹¤.
 
-Å¬¸¯ ÃÑÀ» ¹ß»ç ÇÏ°í º®À» ±ú´Â °ÔÀÓ ÀÔ´Ï´Ù.
+í´ë¦­ ì´ì„ ë°œì‚¬ í•˜ê³  ë²½ì„ ê¹¨ëŠ” ê²Œìž„ ìž…ë‹ˆë‹¤.
 
 
-Content Æú´õ´Â UE4 Editor ÇÁ·ÎÁ§Æ® »ý¼º ½Ã Æ÷ÇÔ ½ÃÅ² ³»¿ëÀ» Æ÷ÇÔ ÇØ¾ß ÇÕ´Ï´Ù.
+Content í´ë”ëŠ” UE4 Editor í”„ë¡œì íŠ¸ ìƒì„± ì‹œ GearVR Content ë¥¼ í¬í•¨ í•´ì•¼ í•©ë‹ˆë‹¤.
 
 Content\FirstPerson
 Content\FirstPersonCPP
